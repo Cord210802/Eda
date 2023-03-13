@@ -1,0 +1,8 @@
+frances, Juan Cordero
+ingles, Pablo Alas
+ingles, Juan Cordero
+chino, Cesar Paulin
+frances, Cesar Paulin
+ingles, Pepe Flores
+chino, Juan Cordero
+ingles, Cesar Paulin

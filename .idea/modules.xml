@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinnaryTree/BinnaryTree.iml" filepath="$PROJECT_DIR$/BinnaryTree/BinnaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colas/Colas.iml" filepath="$PROJECT_DIR$/Colas/Colas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conjuntos/Conjuntos.iml" filepath="$PROJECT_DIR$/Conjuntos/Conjuntos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eda.iml" filepath="$PROJECT_DIR$/.idea/Eda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstructurasEnlazadas/EstructurasEnlazadas.iml" filepath="$PROJECT_DIR$/EstructurasEnlazadas/EstructurasEnlazadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pila/Pila.iml" filepath="$PROJECT_DIR$/Pila/Pila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repaso/Repaso.iml" filepath="$PROJECT_DIR$/Repaso/Repaso.iml" />
+    </modules>
+  </component>
+</project>
