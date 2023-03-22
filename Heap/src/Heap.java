@@ -77,8 +77,6 @@ public class Heap <T extends Comparable<T>>{
             arr[1] = arr[cont];
             arr[cont] = null;
             cont--;
-            hi = papa<<1;
-            hd = (papa<<1) +1;
             while(!termine){
                 if(papa*2>cont){
                     termine = true;

@@ -85,7 +85,6 @@ public class MiListaJp <T>{
         }
         else{
             invierteElementos(actual.getSiguiente());
-            System.out.println(invierteElementos(actual.getSiguiente()));
             T dato = actual.getDato();
             actual.getSiguiente().setDato(dato);
             return dato;
